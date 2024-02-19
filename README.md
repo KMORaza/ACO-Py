@@ -1,4 +1,4 @@
-## Ant Colony Optimization & Application
+# Ant Colony Optimization & Application
 
 1. Basic Implementation of Ant Colony Optimization
 2. Ant Colony Optimization with a bias towards exploitation
