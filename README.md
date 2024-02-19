@@ -1,4 +1,4 @@
-### Implementations of Ant Colony Optimization
+### Ant Colony Optimization
 1. Basic Implementation of Ant Colony Optimization
 2. Ant Colony Optimization with a bias towards exploitation
 3. Ant Colony Optimization with a local pheromone updating rule
