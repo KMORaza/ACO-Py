@@ -56,4 +56,4 @@
 2. CMOS Amplifier Optimization
 3. Reversible Circuit Synthesis
 
-NOTE: I have uploaded the notebooks in 9 parts because the original notebook file was too large. You can check the original notebook here[https://drive.google.com/file/d/1lQaXIqb-hxVtRrMMzd3sWmigwEMWiXsz/view?usp=sharing]
+NOTE: I have uploaded the notebooks in 9 parts because the original notebook file was too large. You can check the original notebook [here](https://drive.google.com/file/d/1lQaXIqb-hxVtRrMMzd3sWmigwEMWiXsz/view?usp=sharing)
