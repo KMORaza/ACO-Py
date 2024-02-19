@@ -9,7 +9,7 @@
 8. Continuous Orthogonal Ant Colony
 9. Recursive Ant Colony Optimization
 
-## Applications of Ant Colony Optimization
+### Applications of Ant Colony Optimization
 #### Scheduling
 1. Sequential Ordering Problem
 2. Job-Shop Scheduling Problem
@@ -23,7 +23,7 @@
 10. Multistage Flowshop Scheduling Problem
 11. Assembly Sequence Planning
 
-### Vehicle Routing
+#### Vehicle Routing
 1. Capacitated Vehicle Routing Problem
 2. Multi-Depot Vehicle Routing Problem
 3. Period Vehicle Routing Problem
@@ -34,13 +34,13 @@
 8. Time Dependent Vehicle Routing Problem with Time Windows
 9. Vehicle Routing Problem with Time Windows and Multiple Service Workers
 
-### Assignment
+#### Assignment
 1. Quadratic Assignment Problem
 2. Generalized Assignment Problem
 3. Frequency Assignment Problem
 4. Redundancy Allocation Problem
 
-### Sets
+#### Sets
 1. Set Cover Problem
 2. Partition Problem
 3. Weight Constrained Graph Tree Partition Problem
@@ -49,8 +49,7 @@
 6. Maximum Independent Set Problem
 
 
-### Application in Electronics
-
+#### Application in Electronics
 1. Antenna Optimization
 2. CMOS Amplifier Optimization
 3. Reversible Circuit Synthesis
