@@ -1,42 +1,15 @@
-## Ant Colony Optimization
+## Ant Colony Optimization & Application
 
-This section includes various implementations and modifications of Ant Colony Optimization (ACO) algorithms.
+1. Basic Implementation of Ant Colony Optimization
+2. Ant Colony Optimization with a bias towards exploitation
+3. Ant Colony Optimization with a local pheromone updating rule
+4. Elitist Ant System
+5. Max-Min Ant System
+6. Rank-based ant system
+7. Parallel Ant Colony Optimization
+8. Continuous Orthogonal Ant Colony
+9. Recursive Ant Colony Optimization
 
-### Basic Implementation
-
-Provide a brief overview of the basic implementation of Ant Colony Optimization.
-
-### ACO with Exploitation Bias
-
-Explain the concept and implementation details of ACO with a bias towards exploitation.
-
-### ACO with Local Pheromone Updating Rule
-
-Describe the local pheromone updating rule in ACO and how it enhances optimization.
-
-### Elitist Ant System
-
-Introduce the Elitist Ant System and explain its advantages in optimization problems.
-
-### Max-Min Ant System
-
-Discuss the Max-Min Ant System and its application in addressing specific optimization challenges.
-
-### Rank-based Ant System
-
-Explain the Rank-based Ant System and its significance in solving optimization problems.
-
-### Parallel Ant Colony Optimization
-
-Detail the parallelization of Ant Colony Optimization for improved efficiency.
-
-### Continuous Orthogonal Ant Colony
-
-Explore the concept of continuous orthogonal Ant Colony Optimization and its applications.
-
-### Recursive Ant Colony Optimization
-
-Discuss the recursive nature of Ant Colony Optimization and its implications in solving complex problems.
 
 ## Scheduling
 
