@@ -10,8 +10,9 @@
 8. Continuous Orthogonal Ant Colony
 9. Recursive Ant Colony Optimization
 
+### Applications of Ant Colony Optimization
 
-## Scheduling
+Scheduling
 
 Explore ACO applications in scheduling problems.
 
