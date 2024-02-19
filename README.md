@@ -10,7 +10,7 @@
 9. Recursive Ant Colony Optimization
 
 ## Applications of Ant Colony Optimization
-### Scheduling
+#### Scheduling
 1. Sequential Ordering Problem
 2. Job-Shop Scheduling Problem
 3. Open-Shop cheduling Problem 
