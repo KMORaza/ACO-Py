@@ -55,4 +55,6 @@
 2. CMOS Amplifier Optimization
 3. Reversible Circuit Synthesis
 
+
+
 There is another [repository](https://github.com/KMORaza/Ant_Colony_Optimization) for implementations and applications of Ant Colony Optmization which I created earlier. It contains the programs which I developed for basic implementation of Ant Colony Optmization and its applications. Please note that I have divided the original notebook into 9 parts and then I have uploaded them in this repository since original file was too large.
