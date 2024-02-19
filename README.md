@@ -11,73 +11,49 @@
 9. Recursive Ant Colony Optimization
 
 ## Applications of Ant Colony Optimization
+### Scheduling
+1. Sequential Ordering Problem
+2. Job-Shop Scheduling Problem
+3. Open-Shop cheduling Problem 
+4. Permutation Flow Shop Problem
+5. Single Machine Total Tardiness Problem
+6. Single Machine Total Weighted Tardiness Problem
+7. Resource-Constrained Project Scheduling Problem
+8. Group-Shop Scheduling Problem
+9. Single-Machine Total Tardiness Problem with Sequence Dependent Setup Times
+10. Multistage Flowshop Scheduling Problem
+11. Assembly Sequence Planning
 
-Scheduling
+### Vehicle Routing
+1. Capacitated Vehicle Routing Problem
+2. Multi-Depot Vehicle Routing Problem
+3. Period Vehicle Routing Problem
+4. Split Delivery Vehicle Routing Problem
+5. Stochastic Vehicle Routing Problem
+6. Vehicle Routing Problem with Pick-Up and Delivery
+7. Vehicle Routing Problem with Time Windows
+8. Time Dependent Vehicle Routing Problem with Time Windows
+9. Vehicle Routing Problem with Time Windows and Multiple Service Workers
 
-Explore ACO applications in scheduling problems.
+### Assignment
+1. Quadratic Assignment Problem
+2. Generalized Assignment Problem
+3. Frequency Assignment Problem
+4. Redundancy Allocation Problem
 
-### Sequential Ordering Problem
+### Sets
+1. Set Cover Problem
+2. Partition Problem
+3. Weight Constrained Graph Tree Partition Problem
+4. Arc-Weighted l-Cardinality Tree Problem
+5. Multiple Knapsack Problem
+6. Maximum Independent Set Problem
 
-Provide insights into how ACO can be applied to solve the Sequential Ordering Problem.
 
-### Job-Shop Scheduling Problem
+### Application in Electronics
 
-Explain the application of ACO in addressing challenges related to the Job-Shop Scheduling Problem.
+1. Antenna Optimization
+2. CMOS Amplifier Optimization
+3. Reversible Circuit Synthesis
 
-...
-
-## Vehicle Routing
-
-Address various Vehicle Routing Problems using ACO.
-
-### Capacitated Vehicle Routing Problem
-
-Describe how ACO can be used to optimize solutions for the Capacitated Vehicle Routing Problem.
-
-### Multi-Depot Vehicle Routing Problem
-
-Explain the application of ACO in optimizing solutions for the Multi-Depot Vehicle Routing Problem.
-
-...
-
-## Assignment
-
-Explore ACO applications in assignment-related problems.
-
-### Quadratic Assignment Problem
-
-Discuss the Quadratic Assignment Problem and how ACO can be utilized for effective solutions.
-
-### Generalized Assignment Problem
-
-Explain the Generalized Assignment Problem and the role of ACO in solving it.
-
-...
-
-## Sets
-
-Utilize ACO for set-related problems.
-
-### Set Cover Problem
-
-Describe the Set Cover Problem and how ACO algorithms can be applied for optimal solutions.
-
-### Partition Problem
-
-Explain how ACO can be employed to solve the Partition Problem effectively.
-
-...
-
-## Application in Electronics
-
-Highlight specific applications of ACO in electronic-related optimization.
-
-### Antenna Optimization
-
-Discuss how ACO is applied to optimize antenna designs for improved performance.
-
-### CMOS Amplifier Optimization
-
-Explore the application of ACO in optimizing CMOS amplifier circuits.
-
-### Reversible Circuit Synthesis
+NOTE: I have uploaded the notebooks in 9 parts because the original notebook file was too large. You can check the original notebook here[https://drive.google.com/file/d/1lQaXIqb-hxVtRrMMzd3sWmigwEMWiXsz/view?usp=sharing]
