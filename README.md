@@ -1,5 +1,4 @@
-# Ant Colony Optimization & Application
-
+### Implementations of Ant Colony Optimization
 1. Basic Implementation of Ant Colony Optimization
 2. Ant Colony Optimization with a bias towards exploitation
 3. Ant Colony Optimization with a local pheromone updating rule
@@ -56,4 +55,4 @@
 2. CMOS Amplifier Optimization
 3. Reversible Circuit Synthesis
 
-NOTE: I have uploaded the notebooks in 9 parts because the original notebook file was too large. You can check the original notebook [here](https://drive.google.com/file/d/1lQaXIqb-hxVtRrMMzd3sWmigwEMWiXsz/view?usp=sharing)
+There is another [repository](https://github.com/KMORaza/Ant_Colony_Optimization) for implementations and applications of Ant Colony Optmization which I created earlier. It contains the programs which I developed for basic implementation of Ant Colony Optmization and its applications. Please note that I have divided the original notebook into 9 parts and then I have uploaded them in this repository since original file was too large.
